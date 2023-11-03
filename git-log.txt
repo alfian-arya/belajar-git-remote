@@ -1,0 +1,4 @@
+489e74c (HEAD -> master) menambahakan file git-log.txt
+69a6037 menambahkan file fit.sh
+7ee4784 menambahkan file2.py
+473e93e menambahkan file1.txt

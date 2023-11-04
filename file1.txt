@@ -1,1 +1,3 @@
 ini merupakan file1.txt
+
+tambah fitur 
